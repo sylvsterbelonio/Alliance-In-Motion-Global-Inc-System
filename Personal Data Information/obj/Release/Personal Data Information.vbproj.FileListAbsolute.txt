@@ -1,0 +1,6 @@
+D:\Back Ups\My Works\Alliance In Motion Global Inc. System\Personal Data Information\obj\Release\ResolveAssemblyReference.cache
+D:\Back Ups\My Works\Alliance In Motion Global Inc. System\Personal Data Information\obj\Release\Personal_Data_Information.frmPDI.resources
+D:\Back Ups\My Works\Alliance In Motion Global Inc. System\Personal Data Information\obj\Release\Personal_Data_Information.frmPDIFinder.resources
+D:\Back Ups\My Works\Alliance In Motion Global Inc. System\Personal Data Information\obj\Release\Personal_Data_Information.Resources.resources
+D:\Back Ups\My Works\Alliance In Motion Global Inc. System\Personal Data Information\obj\Release\Personal Data Information.vbproj.GenerateResource.Cache
+D:\Back Ups\My Works\Alliance In Motion Global Inc. System\Personal Data Information\obj\Release\Personal Data Information.exe.licenses

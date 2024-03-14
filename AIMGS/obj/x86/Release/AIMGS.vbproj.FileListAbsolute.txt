@@ -1,0 +1,23 @@
+C:\Users\Sylvster\Desktop\Alliance In Motion Global Inc. System\AIMGS\bin\x86\Release\AIMGS.exe
+C:\Users\Sylvster\Desktop\Alliance In Motion Global Inc. System\AIMGS\bin\x86\Release\AIMGS.pdb
+C:\Users\Sylvster\Desktop\Alliance In Motion Global Inc. System\AIMGS\bin\x86\Release\AIMGS.xml
+C:\Users\Sylvster\Desktop\Alliance In Motion Global Inc. System\AIMGS\bin\x86\Release\MySql.Data.dll
+C:\Users\Sylvster\Desktop\Alliance In Motion Global Inc. System\AIMGS\bin\x86\Release\Power .NET 8.dll
+C:\Users\Sylvster\Desktop\Alliance In Motion Global Inc. System\AIMGS\bin\x86\Release\Microsoft.Office.Interop.Word.dll
+C:\Users\Sylvster\Desktop\Alliance In Motion Global Inc. System\AIMGS\bin\x86\Release\office.dll
+C:\Users\Sylvster\Desktop\Alliance In Motion Global Inc. System\AIMGS\bin\x86\Release\Microsoft.Vbe.Interop.dll
+C:\Users\Sylvster\Desktop\Alliance In Motion Global Inc. System\AIMGS\bin\x86\Release\Power .NET 8.pdb
+C:\Users\Sylvster\Desktop\Alliance In Motion Global Inc. System\AIMGS\bin\x86\Release\Power .NET 8.xml
+C:\Users\Sylvster\Desktop\Alliance In Motion Global Inc. System\AIMGS\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Sylvster\Desktop\Alliance In Motion Global Inc. System\AIMGS\obj\x86\Release\AIMGS.frmDashboard.resources
+C:\Users\Sylvster\Desktop\Alliance In Motion Global Inc. System\AIMGS\obj\x86\Release\AIMGS.frmProspect.resources
+C:\Users\Sylvster\Desktop\Alliance In Motion Global Inc. System\AIMGS\obj\x86\Release\AIMGS.Resources.resources
+C:\Users\Sylvster\Desktop\Alliance In Motion Global Inc. System\AIMGS\obj\x86\Release\AIMGS.vbproj.GenerateResource.Cache
+C:\Users\Sylvster\Desktop\Alliance In Motion Global Inc. System\AIMGS\obj\x86\Release\AIMGS.exe.licenses
+C:\Users\Sylvster\Desktop\Alliance In Motion Global Inc. System\AIMGS\obj\x86\Release\AIMGS.exe
+C:\Users\Sylvster\Desktop\Alliance In Motion Global Inc. System\AIMGS\obj\x86\Release\AIMGS.xml
+C:\Users\Sylvster\Desktop\Alliance In Motion Global Inc. System\AIMGS\obj\x86\Release\AIMGS.pdb
+C:\Users\Sylvster\Desktop\Alliance In Motion Global Inc. System\AIMGS\obj\x86\Release\AIMGS.frmDummyAccountFinder.resources
+C:\Users\Sylvster\Desktop\Alliance In Motion Global Inc. System\AIMGS\obj\x86\Release\AIMGS.frmJustDoItBoard.resources
+C:\Users\Sylvster\Desktop\Alliance In Motion Global Inc. System\AIMGS\obj\x86\Release\AIMGS.frmDummyAccount.resources
+C:\Users\Sylvster\Desktop\Alliance In Motion Global Inc. System\AIMGS\obj\x86\Release\AIMGS.frmDummyAccountsDashboard.resources

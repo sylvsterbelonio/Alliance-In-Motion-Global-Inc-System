@@ -1,0 +1,29 @@
+D:\Back Ups\My Works\Alliance In Motion Global Inc. System\AIMGS\bin\x86\Release\AIMGS.exe
+D:\Back Ups\My Works\Alliance In Motion Global Inc. System\AIMGS\bin\x86\Release\AIMGS.pdb
+D:\Back Ups\My Works\Alliance In Motion Global Inc. System\AIMGS\bin\x86\Release\AIMGS.xml
+D:\Back Ups\My Works\Alliance In Motion Global Inc. System\AIMGS\bin\x86\Release\MySql.Data.dll
+D:\Back Ups\My Works\Alliance In Motion Global Inc. System\AIMGS\bin\x86\Release\Power .NET 8.dll
+D:\Back Ups\My Works\Alliance In Motion Global Inc. System\AIMGS\bin\x86\Release\Microsoft.Office.Interop.Word.dll
+D:\Back Ups\My Works\Alliance In Motion Global Inc. System\AIMGS\bin\x86\Release\office.dll
+D:\Back Ups\My Works\Alliance In Motion Global Inc. System\AIMGS\bin\x86\Release\Microsoft.Vbe.Interop.dll
+D:\Back Ups\My Works\Alliance In Motion Global Inc. System\AIMGS\bin\x86\Release\Power .NET 8.pdb
+D:\Back Ups\My Works\Alliance In Motion Global Inc. System\AIMGS\bin\x86\Release\Power .NET 8.xml
+D:\Back Ups\My Works\Alliance In Motion Global Inc. System\AIMGS\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Back Ups\My Works\Alliance In Motion Global Inc. System\AIMGS\obj\x86\Release\AIMGS.frmDummyAccount.resources
+D:\Back Ups\My Works\Alliance In Motion Global Inc. System\AIMGS\obj\x86\Release\AIMGS.frmDummyAccountFinder.resources
+D:\Back Ups\My Works\Alliance In Motion Global Inc. System\AIMGS\obj\x86\Release\AIMGS.frmDummyAccountsDashboard.resources
+D:\Back Ups\My Works\Alliance In Motion Global Inc. System\AIMGS\obj\x86\Release\AIMGS.frmInventoryRecord.resources
+D:\Back Ups\My Works\Alliance In Motion Global Inc. System\AIMGS\obj\x86\Release\AIMGS.frmItemList.resources
+D:\Back Ups\My Works\Alliance In Motion Global Inc. System\AIMGS\obj\x86\Release\AIMGS.frmItemListFinder.resources
+D:\Back Ups\My Works\Alliance In Motion Global Inc. System\AIMGS\obj\x86\Release\AIMGS.frmOrderForm.resources
+D:\Back Ups\My Works\Alliance In Motion Global Inc. System\AIMGS\obj\x86\Release\AIMGS.frmLevelUp.resources
+D:\Back Ups\My Works\Alliance In Motion Global Inc. System\AIMGS\obj\x86\Release\AIMGS.imgLevelUp.resources
+D:\Back Ups\My Works\Alliance In Motion Global Inc. System\AIMGS\obj\x86\Release\AIMGS.frmDashboard.resources
+D:\Back Ups\My Works\Alliance In Motion Global Inc. System\AIMGS\obj\x86\Release\AIMGS.frmProspect.resources
+D:\Back Ups\My Works\Alliance In Motion Global Inc. System\AIMGS\obj\x86\Release\AIMGS.frmJustDoItBoard.resources
+D:\Back Ups\My Works\Alliance In Motion Global Inc. System\AIMGS\obj\x86\Release\AIMGS.Resources.resources
+D:\Back Ups\My Works\Alliance In Motion Global Inc. System\AIMGS\obj\x86\Release\Core.vbproj.GenerateResource.Cache
+D:\Back Ups\My Works\Alliance In Motion Global Inc. System\AIMGS\obj\x86\Release\AIMGS.exe.licenses
+D:\Back Ups\My Works\Alliance In Motion Global Inc. System\AIMGS\obj\x86\Release\AIMGS.exe
+D:\Back Ups\My Works\Alliance In Motion Global Inc. System\AIMGS\obj\x86\Release\AIMGS.xml
+D:\Back Ups\My Works\Alliance In Motion Global Inc. System\AIMGS\obj\x86\Release\AIMGS.pdb

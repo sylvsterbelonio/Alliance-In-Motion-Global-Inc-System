@@ -1,0 +1,5 @@
+C:\Users\Sylvster\Desktop\Alliance In Motion Global Inc. System\AIMGS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sylvster\Desktop\Alliance In Motion Global Inc. System\AIMGS\obj\Debug\AIMGS.frmDashboard.resources
+C:\Users\Sylvster\Desktop\Alliance In Motion Global Inc. System\AIMGS\obj\Debug\AIMGS.frmProspect.resources
+C:\Users\Sylvster\Desktop\Alliance In Motion Global Inc. System\AIMGS\obj\Debug\AIMGS.Resources.resources
+C:\Users\Sylvster\Desktop\Alliance In Motion Global Inc. System\AIMGS\obj\Debug\AIMGS.vbproj.GenerateResource.Cache

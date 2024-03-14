@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AIMGS", "AIMGS.vbproj", "{3060CA94-5CA8-41F9-91E0-1A4C4B8EC151}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3060CA94-5CA8-41F9-91E0-1A4C4B8EC151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3060CA94-5CA8-41F9-91E0-1A4C4B8EC151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3060CA94-5CA8-41F9-91E0-1A4C4B8EC151}.Debug|x86.ActiveCfg = Release|x86
+		{3060CA94-5CA8-41F9-91E0-1A4C4B8EC151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3060CA94-5CA8-41F9-91E0-1A4C4B8EC151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3060CA94-5CA8-41F9-91E0-1A4C4B8EC151}.Release|x86.ActiveCfg = Release|x86
+		{3060CA94-5CA8-41F9-91E0-1A4C4B8EC151}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
